@@ -2,8 +2,7 @@ package entities;
 
 import java.io.Serial;
 import java.io.Serializable;
-import java.sql.Date;
-import java.time.format.DateTimeFormatter;
+import java.util.Date;
 import java.util.Objects;
 
 public class Seller implements Serializable {
